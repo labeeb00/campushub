@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<announcements>
+
+    <announcement>
+        <title>Sports Meet 2026</title>
+        <date>2026-07-15</date>
+    </announcement>
+
+    <announcement>
+        <title>Programming Competition</title>
+        <date>2026-08-01</date>
+    </announcement>
+
+</announcements>
